@@ -62,8 +62,7 @@ handlers:
     <body>
       <h1>Hello, world!</h1>
       <p>
-        This is a simple static HTML file that will be served from Google App
-        Engine.
+        This is a simple static HTML file that will be served from Google App Engine.
       </p>
     </body>
   </html>
